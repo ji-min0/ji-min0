@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-다들 영어로 자기소개를 쓰시던데, 전 한글로 쓰겠습니다 ㅎㅎ
-아직 아무것도 모르는 🤪 상태이지만 꾸준히 공부해서 기술스택 빵빵하게 쌓아볼게요!
+- 🔭 다들 영어로 자기소개를 쓰시던데, 전 한글로 쓰겠습니다 ㅎㅎ 
+- 🌱 아직 아무것도 모르는 🤪 상태이지만 꾸준히 공부해서 기술스택 빵빵하게 쌓아볼게요!
 <!--
 **ji-min0/ji-min0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
